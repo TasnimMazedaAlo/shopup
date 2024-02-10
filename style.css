@@ -1,0 +1,926 @@
+
+ 
+
+
+.div1{
+    max-width: 1300px;
+    position: relative;
+}
+.img1{
+    width: 100px;
+    height: 30px;
+    position: absolute;
+    padding: 10px 30px;
+}
+.span{
+    position: absolute;
+    left: 750px;
+    padding-top: 20px;
+}
+.span1{
+    
+    padding: 40px 25px;
+}
+.head1{
+    font-size: 70px;
+    position: absolute;
+    left: 20px;
+}
+.div2{
+    position: relative;
+    top: 80px;
+    
+}
+.pera1{
+    position: absolute;
+    top: 180px;
+    left: 20px;
+    font-size: 30px;
+    opacity: 50%;
+    line-height: 35px;
+    
+}
+.span2{
+    position: absolute;
+    top: 280px;
+    
+    background: linear-gradient( white, rgb(236, 235, 235));
+    width: 1300px;
+    height: 200px;
+
+}
+.span3{
+    width: 500px;
+    height: 300px;
+    position: absolute;
+    
+}
+.img2{
+    widows: 100px;
+    height: 50px;
+    position: absolute;
+    left: 50px;
+    top: 30px;
+}
+.img3{
+    width: 120px;
+    height: 120px;
+    position: absolute;
+    left: 180px;
+    bottom: 185px;
+   
+}
+.img4{
+    width: 120px;
+    height: 50px;
+    position: absolute;
+    left: 340px;
+    top: 30px;
+
+}
+.pera2{
+    font-size: 18px;
+    position: absolute;
+    top: 80px;
+    left: 30px;
+    opacity: 50%;
+   
+}
+.pera3{
+    font-size: 18px;
+    position: absolute;
+    top: 80px;
+    left: 190px;
+    opacity: 50%;
+
+}
+.pera4{
+    font-size: 18px;
+    position: absolute;
+    top: 80px;
+    left: 350px;
+    border-right: 1px  rgb(48, 26, 26);
+    opacity: 50%;
+}
+.img5{
+    width: 550px;
+    height: 450px;
+}
+.spanpic{
+    position: absolute;
+    top: 250px;
+    left: 700px;
+}
+.div3{
+    position: relative;
+    top: 550px;
+}
+.pera6{
+    position: absolute;
+    font-size: 50px;
+    left: 20px;
+}
+.span5{
+    width: 550px;
+    font-size: 34px;
+    color: rgb(20, 160, 215);
+    position: absolute;
+    top: 170px;
+    left: 30px;
+    line-height: 45px;
+}
+.span6{
+    width: 600px;
+    font-size: 20px;
+    position: absolute;
+    top: 170px;
+    left: 510px;
+    line-height: 25px;
+    
+
+}
+.ul1{
+    list-style: none;
+    position: absolute;
+    left: 100px;
+}
+.li1{
+    padding-bottom: 20px;
+    opacity: 70%;
+}
+.feb{
+    position: absolute;
+    left: 170px;
+    top: 70px;
+}
+.mar{
+    position: absolute;
+    left: 320px;
+    top: 70px;
+}
+.apr{
+    position: absolute;
+    top: 120px;
+    left: 20px;
+}
+.div4{
+    position: relative;
+    top: 1100px;
+}
+.pera7{
+    position: absolute;
+    bottom: -25px;
+    font-size: 30px;
+    font-weight: bold;
+    left: 20px;
+    
+}
+.span7{
+    position: absolute;
+    width: 220px;
+    height: 20px;
+    background-color: #71B4AF;
+    left: 440px;
+    top: 80px;
+    
+
+}
+.span8{
+    position: absolute;
+    top: 100px;
+    background-image: url(./wave-bg.svg);
+    width: 100%;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100%;
+    background-position: center;
+}
+.img11{
+    position: absolute;
+    top: 200px;
+    left: 650px;
+}
+.img12{
+    position: absolute;
+    width: 450px;
+    height: 350px;
+    top: 200px;
+    
+}
+.pera21{
+    font-size: 110px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 3px 3px 5px rgb(225, 223, 223) ;
+    position: absolute;
+}
+.span9{
+    width: 600px;
+    position: absolute;
+    left: 630px;
+    top: 100px;
+    
+}
+.head21{
+    position: absolute;
+    top: 180px;
+    left: 10px;
+}
+.pera22{
+    font-size: 22px;
+    line-height: 25px;
+    opacity: 50%;
+    top: 250px;
+    left: 10px;
+    position: absolute;
+}
+.pera23{
+    position: absolute;
+    top: 510px;
+    left: 10px;
+    opacity: 50%;
+    font-size: 22px;
+}
+.span10{
+    width: 160px;
+    padding: 14px 22px;
+    background-color: rgb(235, 182, 8);
+    border-radius: 20px;
+    position: absolute;
+    top: 600px;
+    left: 100px;
+    font-size: 20px;
+}
+#right{
+    font-size: 12px;
+}
+.span10:hover{
+    padding: 16px 24px;
+    background-color: rgb(235, 182, 8);
+    border-radius: 20px;
+    font-size: 20px;
+}
+.img31{
+    position: absolute;
+    top: 400px;
+    left: 300px;
+    width: 300px;
+    height: 400px;
+}
+.div5{
+    position: relative;
+    top: 2000px;
+}
+.pera24{
+    font-size: 110px;
+    color: rgb(235, 233, 233);
+    font-weight: bold;
+    text-shadow: 3px 3px 5px rgb(225, 223, 223) ;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+
+}
+.head22{
+    position: absolute;
+    top: 200px;
+    left: 15px;
+
+}
+.pera25{
+    font-size: 22px;
+    line-height: 25px;
+    opacity: 50%;
+    top: 270px;
+    left: 20px;
+    position: absolute;
+
+}
+.span99{
+    position: absolute;
+    top: 130px;
+    width: 600px;
+    left: 20px;
+}
+.span98{
+    position: absolute;
+    left: 650px;
+    top: 300px;
+    width: 600px;
+}
+.img99{
+    width: 350px;
+    height: 300px;
+    top: 200px;
+    left: 250px;
+    position: absolute;
+}
+.alo{
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 50px;
+    
+}
+.span80{
+    position: absolute;
+    top: 570px;
+    left: 100px;
+    width: 260px;
+    padding: 14px 22px;
+    background-color: rgb(235, 182, 8);
+    border-radius: 20px;
+    font-size: 20px;
+}
+.span80:hover{
+    padding: 16px 24px;
+    background-color: rgb(235, 182, 8);
+    border-radius: 20px;
+    font-size: 20px;
+
+}
+.div87{
+    position: relative;
+    top: 2700px;
+   
+    
+    background-image: url(./wave-bg.svg);
+    width: 100%;
+    height: 1000px;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-size: 100%;
+    background-position: center;
+   
+}
+.man3{
+    width: 400px;
+    height: 350px;
+    top: 220px;
+    left: 10px;
+    position: absolute;
+
+}
+.span70{
+    position: absolute;
+    width: 600px;
+}
+.man4{
+    position: absolute;
+    top: 400px;
+    left: 300px;
+    width: 280px;
+    height: 360px;
+}
+.zig{
+    position: absolute;
+    left: 650px;
+    top: 100px;
+}
+.span71{
+    position: absolute;
+    left: 620px;
+    top: 100px;
+    width: 600px;
+}
+.pera60{
+    font-size: 110px;
+    color: white;
+    font-weight: bold;
+    text-shadow: 3px 3px 5px rgb(225, 223, 223) ;
+    position: absolute;
+    top: 20px;
+    left: 10px;
+
+}
+.head60{
+    position: absolute;
+    top: 200px;
+    left: 20px;
+}
+.pera66{
+    font-size: 22px;
+    line-height: 25px;
+    opacity: 50%;
+    top: 270px;
+    left: 20px;
+    position: absolute;
+
+}
+.pera67{
+    position: absolute;
+    top: 550px;
+    left: 20px;
+    font-size: 22px;
+}
+.span41{
+    width: 190px;
+    height: 20px;
+    top: 1000px;
+    left: 550px;
+    position: absolute;
+    background-color: #71B4AF;
+
+}
+.pera42{
+    position: absolute;
+    bottom: -25px;
+    font-size: 30px;
+    font-weight: bold;
+    left: 30px;
+
+}
+.span43{
+    width: 50px;
+    height: 50px;
+    border: 5px solid #71B4AF;
+    border-radius: 50%;
+    position: absolute;
+    top: 800px;
+    left: 900px;
+}
+.span44{
+    width: 30px;
+    height: 30px;
+    border: 5px solid #e6c521;
+    border-radius: 50%;
+    position: absolute;
+    top: 775px;
+    left: 955px;
+
+}
+.span45{
+    width: 20px;
+    height: 20px;
+    border: 5px solid #71B4AF;
+    border-radius: 50%;
+    position: absolute;
+    top: 740px;
+    left: 960px;
+
+}
+.span46{
+    width: 10px;
+    height: 10px;
+    border: 5px solid #e6c521;
+    border-radius: 50%;
+    position: absolute;
+    top: 720px;
+    left: 950px
+}
+.div101{
+    position: relative;
+    top: 2900px;
+}
+.span101{
+    position: absolute;
+    left: 40px;
+    width: 560px;
+    height: 500px;
+    background-image: url(./gr1.jpg);
+    box-shadow: 3px 3px 3px rgb(214, 212, 212);
+    
+}
+.span102{
+    position: absolute;
+    left: 650px;
+    width: 560px;
+    height: 500px;
+   
+    box-shadow: 3px 3px 3px rgb(214, 212, 212);
+    background-image: url(./gr2.jpg);
+}
+.img101{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    left: 170px;
+    bottom: 130px;
+}
+.img102{
+    width: 200px;
+    height: 400px;
+    position: absolute;
+    left: 170px;
+    bottom: 130px;
+
+}
+.span103{
+    position: absolute;
+    top: 330px;
+    left: 205px;
+    width: 110px;
+    padding: 15px 20px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+}
+.span104{
+    position: absolute;
+    top: 330px;
+    left: 205px;
+    width: 110px;
+    padding: 15px 20px;
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+
+}
+#goggle{
+    color: #e6c521;
+}
+.head101{
+    position: absolute;
+    top: 400px;
+    color: white;
+    left: 230px;
+}
+.pera110{
+    position: absolute;
+    top: 430px;
+    left: 150px;
+    color: white;
+    font-size: 20px;
+}
+.head102{
+    position: absolute;
+    top: 400px;
+    color: white;
+    left: 230px;
+
+}
+.pera111{
+    position: absolute;
+    top: 430px;
+    left: 150px;
+    color: white;
+    font-size: 20px;
+
+}
+.span105{
+    width: 190px;
+    height: 20px;
+    top: 4700px;
+    left: 550px;
+    position: absolute;
+    background-color: #71B4AF;
+
+}
+.pera112{
+    position: absolute;
+    bottom: -25px;
+    font-size: 30px;
+    font-weight: bold;
+    left: 13px;
+}
+.div102{
+    position: relative;
+    top: 3800px;
+}
+.span121{
+    position: absolute;
+    
+}
+.img121{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+}
+.img122{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    left: 600px;
+
+}
+.head121{
+    position: absolute;
+    left: 230px;
+    color: #c79a12;
+    width: 300px;
+}
+.pera131{
+    position: absolute;
+    font-size: 20px;
+    left: 230px;
+    width: 300px;
+    top: 80px;
+}
+.head122{
+    position: absolute;
+    left: 830px;
+    color: #c79a12;
+    width: 300px;
+
+}
+.pera132{
+    position: absolute;
+    font-size: 20px;
+    left: 830px;
+    width: 300px;
+    top: 80px;
+
+}
+.div105{
+    position: absolute;
+    top: 300px;
+}
+.span123{
+    position: absolute;
+    background-color: white;
+    opacity: 70%;
+    padding: 35px 40px;
+    border-radius: 50%;
+    left: 540px;
+    box-shadow: 2px 2px 2px rgb(218, 216, 216); 
+}
+.span124{
+    position: absolute;
+    background-color:white;
+    padding: 35px 40px;
+    border-radius: 50%;
+    left: 640px;
+    box-shadow: 2px 2px 2px rgb(218, 216, 216);
+
+}
+.span124:hover{
+    padding: 37px 42px;
+    border-radius: 50%;
+    left: 640px;
+    box-shadow: 2px 2px 2px rgb(195, 233, 240);
+
+}
+.div106{
+    position: relative;
+    top: 4300px;
+    background-color: #eeecec;
+    width: 100%;
+    height: 700px;
+}
+.span125{
+    width: 220px;
+    height: 20px;
+    top: 100px;
+    left: 550px;
+    position: absolute;
+    background-color: #71B4AF;
+
+}
+.pera134{
+    position: absolute;
+    bottom: -25px;
+    font-size: 30px;
+    font-weight: bold;
+    left: 13px;
+
+}
+.div107{
+    position: absolute;
+    top: 200px;
+    left: 100px;
+}
+.img221{
+    width: 350px;
+    height: 300px;
+    pad: 10px;
+}
+.div108{
+    position: relative;
+    width: 100%;
+    height: 900px;
+    top: 4400px;
+    background-image: url(./blob-ripple.svg);
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    
+    background-position: center;
+}
+.span130{
+    width: 220px;
+    height: 20px;
+    top: 100px;
+    left: 550px;
+    position: absolute;
+    background-color: #71B4AF;
+
+
+}
+.pera141{
+    position: absolute;
+    bottom: -25px;
+    font-size: 30px;
+    font-weight: bold;
+    left: 13px;
+}
+.div109{
+    position: absolute;
+    top: 100px;
+}
+.span131{
+    position: absolute;
+    width: 500px;
+}
+.img228{
+    position: absolute;
+    width: 350px;
+    height: 350px;
+    top: 100px;
+    left: 50px;
+}
+.pera241{
+    font-size: 22px;
+    line-height: 25px;
+    opacity: 50%;
+    top: 0;
+    left: 0;
+    position: absolute;
+}
+.span132{
+    position: absolute;
+    top: 100px;
+    left: 550px;
+    width: 500px;
+}
+.span133{
+    width: 160px;
+    padding: 14px 22px;
+    background-color: rgb(235, 182, 8);
+    border-radius: 20px;
+    position: absolute;
+    top: 390px;
+    left: 700px;
+    font-size: 20px;
+}
+.span133:hover{
+    padding: 16px 24px;
+    background-color: rgb(235, 182, 8);
+    border-radius: 20px;
+    font-size: 20px;
+}
+.span134{
+    position: absolute;
+    top: 600px;
+    left: 550px;
+    width: 145px;
+    height: 20px;
+   
+    position: absolute;
+    background-color: #71B4AF;
+}
+.pera142{
+    position: absolute;
+    bottom: -25px;
+    font-size: 30px;
+    font-weight: bold;
+    left: 13px;
+
+}
+.div110{
+    position: relative;
+    top: 4350px;
+    width: 100%;
+}
+.span135{
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    left: 50px;
+    box-shadow: 5px 5px 5px rgb(166, 164, 164);
+}
+.span136{
+    position: absolute;
+    width: 550px;
+    height: 550px;
+    left: 620px;
+    box-shadow: 5px 5px 5px rgb(151, 151, 151);
+}
+.img230{
+    position: absolute;
+    width: 550px;
+    height: 300px;
+}
+.img231{
+    position: absolute;
+    width: 550px;
+    height: 300px;
+
+}
+.head177{
+    position: absolute;
+    top: 330px;
+}
+.pera143{
+    position: absolute;
+    top: 400px;
+    font-size: 22px;
+    line-height: 25px;
+    opacity: 50%;
+    
+    position: absolute;
+}
+.head178{
+    position: absolute;
+    top: 330px;
+
+}
+.pera145{
+    position: absolute;
+    top: 400px;
+    font-size: 22px;
+    line-height: 25px;
+    opacity: 50%;
+    
+    
+
+}
+.div111{
+    position: relative;
+    top: 5000px;
+    width: 100%;
+    height: 700px;
+    background-color: rgb(243, 241, 241);
+}
+.span138{
+    position: absolute;
+    width: 400px;
+    left: 20px;
+    top: 50px;
+    font-size: 20px;
+}
+.ul4{
+    position: absolute;
+    left: 20px;
+}
+
+
+.li1{
+    font-size: 20px;
+    line-height: 25px;
+    list-style: none;
+}
+.span139{
+    position: absolute;
+    width: 300px;
+    left: 450px;
+    top: 50px;
+    font-size: 20px;
+    
+
+}
+.span140{
+    position: absolute;
+    width: 300px;
+    left: 700px;
+    top: 50px;
+    font-size: 20px;
+
+
+}
+.span141{
+    position: absolute;
+    width: 400px;
+    left: 950px;
+    top: 50px;
+    font-size: 20px;
+
+
+}
+.li4{
+    list-style: none;
+    padding: 20px;
+}
+#loca{
+    color: #1277b5;
+    
+}
+#face{
+    color: #0a4970;
+}
+#ins{
+    color: rgb(237, 75, 21);
+}
+#you{
+    color: rgb(186, 7, 7);
+}
+.div111 li{
+    opacity: 70%;
+}
+.lasts{
+    position: absolute;
+    top: 500px;
+    left: 100px;
+    width: 1100px;
+    border-top: 1 px solid gray;
+    font-size: 18px;
+    opacity: 50%;
+}
+.ul9 li{
+    display: inline;
+    list-style: circle;
+    text-decoration: underline;
+    
+}
+#la{
+    font-size: 10px;
+}
